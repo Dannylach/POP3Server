@@ -1,0 +1,15 @@
+c:\users\dannylach\documents\visual studio 2015\Projects\POP3_Server\POP3_Server\bin\Debug\POP3_Server.exe.config
+c:\users\dannylach\documents\visual studio 2015\Projects\POP3_Server\POP3_Server\obj\Debug\POP3_Server.csprojResolveAssemblyReference.cache
+c:\users\dannylach\documents\visual studio 2015\Projects\POP3_Server\POP3_Server\bin\Debug\POP3_Server.exe
+c:\users\dannylach\documents\visual studio 2015\Projects\POP3_Server\POP3_Server\bin\Debug\POP3_Server.pdb
+c:\users\dannylach\documents\visual studio 2015\Projects\POP3_Server\POP3_Server\obj\Debug\POP3_Server.exe
+c:\users\dannylach\documents\visual studio 2015\Projects\POP3_Server\POP3_Server\obj\Debug\POP3_Server.pdb
+D:\Chmury\MEGAsync\POP3_Server\POP3_Server\bin\Debug\POP3_Server.exe.config
+D:\Chmury\MEGAsync\POP3_Server\POP3_Server\obj\Debug\POP3_Server.exe
+D:\Chmury\MEGAsync\POP3_Server\POP3_Server\obj\Debug\POP3_Server.pdb
+D:\Chmury\MEGAsync\POP3_Server\POP3_Server\bin\Debug\POP3_Server.exe
+D:\Chmury\MEGAsync\POP3_Server\POP3_Server\bin\Debug\POP3_Server.pdb
+D:\Chmury\MEGAsync\POP3_Server\POP3_Server\obj\Debug\POP3_Server.csprojResolveAssemblyReference.cache
+D:\Projekty\C#\POP3_Server\POP3_Server\POP3_Server\bin\Debug\POP3_Server.exe.config
+D:\Projekty\C#\POP3_Server\POP3_Server\POP3_Server\obj\Debug\POP3_Server.exe
+D:\Projekty\C#\POP3_Server\POP3_Server\POP3_Server\obj\Debug\POP3_Server.pdb
