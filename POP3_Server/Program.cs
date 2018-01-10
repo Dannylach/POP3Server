@@ -46,7 +46,7 @@ namespace POP3_Server
                     string com12 = null;
                     byte[] b = new byte[100];
                     int k = s.Receive(b);
-                    Console.WriteLine("Recived...");
+                    Console.WriteLine("Recived Message...");
                     for (int i = 0; i < k; i++)
                     {
                         com12 += Convert.ToChar(b[i]);
